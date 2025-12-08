@@ -6,7 +6,9 @@ Justificativa:
 
 O desenvolvimento do algoritmo justifica-se pela necessidade de gerenciar dados precisos e confiáveis sobre fluxo de estoque de produtos em geral.
 
-Como rodar: Python, IDE utilizado: Visual Studio Code, Extensão: SQLite Viewer, arquivo utilizado: estoque.db.
+Como rodar: Python, IDE utilizado: Visual Studio Code, Extensão: SQLite Viewer, arquivo utilizado: estoque.db
+
+Atribua "estoque.db" e "main.py" na mesma pasta, abra a pasta no Visual Studio Code, e instale a extensão SQLite Viewer, execute o código. E para visualizar o banco de dados, clique no arquivo com a extensão instalada.
 
 Explicação: 
 
